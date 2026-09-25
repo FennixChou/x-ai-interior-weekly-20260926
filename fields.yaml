@@ -1,0 +1,4 @@
+source_fields: [id, author, handle, utc, url, model, categories, kind, grade]
+analysis_fields: [claim, method, limit, lesson, artifact]
+detail_level: detailed
+uncertain: [native_artifact_validity, independent_reproduction, full_cost, dimensional_accuracy]

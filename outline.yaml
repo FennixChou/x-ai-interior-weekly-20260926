@@ -1,0 +1,8 @@
+topic: AI models in CAD, SketchUp, interior modeling, style imagery and rendering on X
+period: 2026-09-21 through 2026-09-26 Asia/Taipei
+items: [CAD, SketchUp, interior_modeling, style_image_generation, rendering]
+execution:
+  batch_size: 1
+  items_per_agent: 5
+  output_dir: v2
+  scope: Approved full research and GitHub Pages publishing
